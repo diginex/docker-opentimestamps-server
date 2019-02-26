@@ -12,4 +12,4 @@ docker run --rm -it \
   diginex/opentimestamps-server
 ```
 
-Please note that the above exposes the server over HTTP publicly. You can use something like [`nginx-proxy`](https://github.com/jwilder/nginx-proxy) and [`letsencrypt-nginx-p9roxy-companion`](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion) to protect your users.
+Please note that the above exposes the server over HTTP publicly. You can use something like [`nginx-proxy`](https://github.com/jwilder/nginx-proxy) and [`letsencrypt-nginx-proxy-companion`](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion) to protect your users.
